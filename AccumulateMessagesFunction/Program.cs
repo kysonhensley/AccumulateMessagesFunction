@@ -21,6 +21,11 @@ namespace AccumulateMessagesFunction
             string userMessage = "this is important";
             bool userHasQuit = false;
 
+            Console.WriteLine("Commands:");
+            Console.WriteLine("  q or Q - Quit and show all messages");
+            Console.WriteLine("  m or M - Show current messages");
+            Console.WriteLine("  c or C - Clear all messages");
+            Console.WriteLine("\nStart entering messages:");
             //TestMessages();
 
             do
@@ -96,3 +101,4 @@ namespace AccumulateMessagesFunction
         }
     }
 }
+
