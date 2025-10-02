@@ -1,4 +1,5 @@
-﻿namespace AccumulateMessagesFunction
+﻿using System;
+namespace AccumulateMessagesFunction
 {
     internal class Program
 
@@ -53,7 +54,7 @@
 
             Console.Clear();
             Console.WriteLine("Here are all the messages you entered:");
-            Console.WriteLine(Messages);
+            Console.WriteLine(Messages());
 
 
             //pause
@@ -95,4 +96,3 @@
         }
     }
 }
-
