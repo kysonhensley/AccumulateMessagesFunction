@@ -1,4 +1,4 @@
-﻿namespace ReusableMethods
+﻿namespace AccumulateMessagesFunction
 {
     internal class Program
 
