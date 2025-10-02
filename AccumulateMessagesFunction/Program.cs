@@ -1,4 +1,10 @@
-﻿using System;
+﻿//Kyson Hensley
+//RCET2265
+//Fall 2025
+//AccumulateMessagesFunction Program
+//https://github.com/kysonhensley/AccumulateMessagesFunction.git
+
+using System;
 namespace AccumulateMessagesFunction
 {
     internal class Program
