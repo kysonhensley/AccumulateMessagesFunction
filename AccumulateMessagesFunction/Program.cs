@@ -1,4 +1,10 @@
-﻿using System.Xml.Schema;
+﻿//Kyson Hensley
+//RCET2265
+//Spring 2026
+//AccumulateMessagesFunction Program
+//https://github.com/kysonhensley/AccumulateMessagesFunction.git
+
+using System.Xml.Schema;
 
 namespace AccumulateMessagesFunction
 {
